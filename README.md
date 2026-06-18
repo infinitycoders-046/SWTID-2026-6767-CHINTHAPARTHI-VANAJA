@@ -5,10 +5,11 @@
 --- 
  
 ## 👨‍💻 Team Details 
- 
-
-SkillWallet IDNameRoleProfile LinkSWUID2026202797CHINTHAPARTHI VANAJA Team Lead[View Profile](https://public.tableau.com/app/profile/chinthaparthi.vanaja)SWUID2026202814TUPAKULA SRAVANTHITeam Member[View Profile](https://public.tableau.com/app/profile/tupakula.sravanthi)SWUID2026202801KOKKANTI HARITHATeam Member[View Profile](https://public.tableau.com/app/profile/kokkanti.haritha)
-
+| SkillWallet ID  | Name | Role | Profile Link |
+|-----------------|-------|------|-----------------|
+| SWUID2026202797 | CHINTHAPARTHI VANAJA  | TEAM LEAD |[View Profile](https://public.tableau.com/app/profile/chinthaparthi.vanaja) |
+| SWUID2026202814 |TUPAKULA SRAVANTHI  | TEAM MEMBER |[View Profile](https://public.tableau.com/app/profile/tupakula.sravanthi) |
+| SWUID2026202701 | CHINTHAPARTHI VANAJA  | TEAM MEMBER |[View Profile](https://public.tableau.com/app/profile/kokkanti.haritha) |
 --- 
  
 ## 🔗 GitHub Repository 
