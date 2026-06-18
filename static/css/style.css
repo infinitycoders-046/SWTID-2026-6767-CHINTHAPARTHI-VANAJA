@@ -1,0 +1,57 @@
+:root{
+    --bg:#050816;
+    --card:#0F172A;
+    --blue:#2563EB;
+    --light-blue:#60A5FA;
+    --text:#F8FAFC;
+}
+
+body{
+    background:var(--bg);
+    color:var(--text);
+    font-family:Arial,sans-serif;
+}
+
+.navbar{
+    background:#000814 !important;
+}
+
+.navbar-brand{
+    color:var(--light-blue)!important;
+    font-weight:bold;
+}
+
+.hero{
+    min-height:80vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+}
+
+.card-custom{
+    background:var(--card);
+    border-radius:15px;
+    padding:25px;
+    border:1px solid #1E293B;
+    height:100%;
+}
+
+.section-title{
+    color:var(--light-blue);
+    margin-bottom:30px;
+}
+
+.btn-ev{
+    background:var(--blue);
+    color:white;
+    border:none;
+    padding:10px 25px;
+    border-radius:25px;
+}
+
+.chart-card{
+    background:var(--card);
+    padding:20px;
+    border-radius:15px;
+}
