@@ -9,7 +9,7 @@
 |-----------------|-------|------|-----------------|
 | SWUID2026202797 | CHINTHAPARTHI VANAJA  | TEAM LEAD |[View Profile](https://public.tableau.com/app/profile/chinthaparthi.vanaja) |
 | SWUID2026202814 |TUPAKULA SRAVANTHI  | TEAM MEMBER |[View Profile](https://public.tableau.com/app/profile/tupakula.sravanthi) |
-| SWUID2026202701 | CHINTHAPARTHI VANAJA  | TEAM MEMBER |[View Profile](https://public.tableau.com/app/profile/kokkanti.haritha) |
+| SWUID2026202701 | KOKKANTI HARITHA  | TEAM MEMBER |[View Profile](https://public.tableau.com/app/profile/kokkanti.haritha) |
 --- 
  
 ## 🔗 GitHub Repository 
